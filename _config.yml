@@ -1,0 +1,8 @@
+title: Upgrade Notes
+description: What changed in AI this week, for people who build with AI tools. Every Thursday.
+baseurl: /upgrade-notes
+url: https://otctrading101.github.io
+theme: minima
+plugins:
+  - jekyll-feed
+permalink: /:year/:month/:day/:title/
